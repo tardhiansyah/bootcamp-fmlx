@@ -1,3 +1,0 @@
-# TITLE
-
-Some description.
