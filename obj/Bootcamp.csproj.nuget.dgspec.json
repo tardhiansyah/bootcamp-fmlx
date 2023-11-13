@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 7\\Bootcamp\\Bootcamp.csproj": {}
+    "D:\\Bootcamp\\day_1\\Bootcamp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 7\\Bootcamp\\Bootcamp.csproj": {
+    "D:\\Bootcamp\\day_1\\Bootcamp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 7\\Bootcamp\\Bootcamp.csproj",
+        "projectUniqueName": "D:\\Bootcamp\\day_1\\Bootcamp.csproj",
         "projectName": "Bootcamp",
-        "projectPath": "C:\\Users\\Batch 7\\Bootcamp\\Bootcamp.csproj",
-        "packagesPath": "C:\\Users\\Batch 7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 7\\Bootcamp\\obj\\",
+        "projectPath": "D:\\Bootcamp\\day_1\\Bootcamp.csproj",
+        "packagesPath": "C:\\Users\\tardh\\.nuget\\packages\\",
+        "outputPath": "D:\\Bootcamp\\day_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 7\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tardh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

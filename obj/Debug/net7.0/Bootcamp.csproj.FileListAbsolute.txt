@@ -13,3 +13,17 @@ C:\Users\Batch 7\Bootcamp\obj\Debug\net7.0\refint\Bootcamp.dll
 C:\Users\Batch 7\Bootcamp\obj\Debug\net7.0\Bootcamp.pdb
 C:\Users\Batch 7\Bootcamp\obj\Debug\net7.0\Bootcamp.genruntimeconfig.cache
 C:\Users\Batch 7\Bootcamp\obj\Debug\net7.0\ref\Bootcamp.dll
+D:\Bootcamp\day_1\bin\Debug\net7.0\Bootcamp.exe
+D:\Bootcamp\day_1\bin\Debug\net7.0\Bootcamp.deps.json
+D:\Bootcamp\day_1\bin\Debug\net7.0\Bootcamp.runtimeconfig.json
+D:\Bootcamp\day_1\bin\Debug\net7.0\Bootcamp.dll
+D:\Bootcamp\day_1\bin\Debug\net7.0\Bootcamp.pdb
+D:\Bootcamp\day_1\obj\Debug\net7.0\Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\day_1\obj\Debug\net7.0\Bootcamp.AssemblyInfoInputs.cache
+D:\Bootcamp\day_1\obj\Debug\net7.0\Bootcamp.AssemblyInfo.cs
+D:\Bootcamp\day_1\obj\Debug\net7.0\Bootcamp.csproj.CoreCompileInputs.cache
+D:\Bootcamp\day_1\obj\Debug\net7.0\Bootcamp.dll
+D:\Bootcamp\day_1\obj\Debug\net7.0\refint\Bootcamp.dll
+D:\Bootcamp\day_1\obj\Debug\net7.0\Bootcamp.pdb
+D:\Bootcamp\day_1\obj\Debug\net7.0\Bootcamp.genruntimeconfig.cache
+D:\Bootcamp\day_1\obj\Debug\net7.0\ref\Bootcamp.dll
